@@ -1,6 +1,7 @@
 ## Dotfiles of my laptop
 
 #### Deets:
+* Model: Toshiba C640
 * OS: Arch Linux
 * WM: i3-gaps
 * Compositor: jonaburg/picom
