@@ -1,5 +1,8 @@
 ## Dotfiles of my laptop
 
+#### Preview:
+![Desktop](https://github.com/mannzup4/dotfiles/blob/main/preview.png?raw=true)
+
 #### Deets:
 * Model: Toshiba C640
 * OS: Arch Linux
