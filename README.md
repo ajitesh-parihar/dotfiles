@@ -1,7 +1,6 @@
 ## Dotfiles of my laptop
 
-#### Specs:
-**
+#### Deets:
 * OS: Arch Linux
 * WM: i3-gaps
 * Compositor: jonaburg/picom
@@ -10,11 +9,9 @@
 * Bar: polybar
 * launcher: rofi
 * Theme: Materia-dark
-* Icons: Papirus-dark
-**  
+* Icons: Papirus-dark  
   
-#### Deps:
-**
+#### Programs:
 * lxqt-policykit
 * i3lock-fancy
 * dunst
@@ -25,8 +22,7 @@
 * unclutter
 * xfce4-power-manager
 * Network Manager
-* cava
-**  
+* cava  
   
 ##### Fonts:
 * powerline-fonts
